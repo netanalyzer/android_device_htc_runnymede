@@ -1,4 +1,3 @@
-table File  24 lines (21 sloc)  848 Bytes
 #
 # Copyright (C) 2008 The Android Open Source Project
 #
